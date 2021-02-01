@@ -5,7 +5,7 @@
 - 💬 Ask me about : Frontend ,C,C++,and  Django.
 - 📫 How to reach me:gmail: rravirajbujawade@gmail.com .
 
--![](https://komarev.com/ghpvc/?username=Raviraj39&color=dc143c)
+![](https://komarev.com/ghpvc/?username=Raviraj39&color=dc143c)
 
 
 ![Raviraj's github stats](https://github-readme-stats.vercel.app/api?username=Raviraj39&theme=great-gatsby&show_icons=true)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raviraj39)](https://github.com/Raviraj39/github-readme-stats)
