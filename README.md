@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👯 I’m looking to collaborate on *Frontend Web Development & Java Development**
+- 👯 I’m looking to collaborate on **Frontend Web Development & Java Development**
 
 - 💬 Ask me about **HTML, CSS, JavaScript, And Java**
 
