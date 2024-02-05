@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **JavaScript and React**
+- 🔭 I’m currently working on **JavaScript & Java**
 
 - 🌱 I’m currently learning **React**
 
-- 👯 I’m looking to collaborate on **frontend web development**
+- 👯 I’m looking to collaborate on *Frontend Web Development & Java Development**
 
-- 💬 Ask me about **Html ,CSS, and JavaScript**
+- 💬 Ask me about **HTML, CSS, JavaScript, And Java**
 
 - 📫 How to reach me **raviraj.rb39@gmail.com**
 
