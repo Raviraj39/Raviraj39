@@ -3,18 +3,19 @@
 
 <h1 align="center">Hi 👋, I'm Raviraj Bujawade</h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Exo+2&size=24&duration=4000&pause=1000&center=true&vCenter=true&width=1000&lines=A+passionate+Frontend+Web+Developer+;I+like+to+explore+new+technology+and+things." alt="Typing SVG" /></a>
-<img src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" align="right" width="400" >
+<img 
+  src= "https://camo.githubusercontent.com/6e6397aed26eb4fab8f2c57f52eaa579c90d1730be49af30c8980e9c60b7a77a/68747470733a2f2f69302e77702e636f6d2f7777772e736369656e63656e6577732e6f72672f77702d636f6e74656e742f75706c6f6164732f323032332f30342f3034303832335f636861746770745f666561742e6769663f6669743d313032342532433537362673736c3d31" align="right" width="500" alt="profile" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raviraj39&label=Profile%20views&color=0e75b6&style=flat" alt="raviraj39" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **JavaScript & Java**
+- 🔭 I’m currently working on **React & Java**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Java Frameworks**
 
 - 👯 I’m looking to collaborate on **Frontend Web Development & Java Development**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, And Java**
+- 💬 Ask me about **React, JavaScript And Java**
 
 - 📫 How to reach me **raviraj.rb39@gmail.com**
 
